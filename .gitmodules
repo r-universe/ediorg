@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ecocomDP"]
+	path = ecocomDP
+	url = https://github.com/ediorg/ecocomdp
+	shallow = true
+	registered = true
